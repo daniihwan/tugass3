@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .bg-cover {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .produk-card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s ease;
+  }
+  
